@@ -6,7 +6,7 @@
 }
 @font-face {
   font-family: "Coolvetica";
-  src: url(../static/fonts/coolvetica rg.ttf) format('truetype');
+  src: url(../fonts/coolvetica rg.ttf) format('truetype');
 }
 * {
   margin: 0;
